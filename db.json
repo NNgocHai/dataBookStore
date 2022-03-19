@@ -1,11 +1,32 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "email": "admin@gmail.com",
+      "password": "$2a$08$szZ0e7Iidy/8eZfhPDAsvOu7tl8Ddg0zplY0Cae4bhCPURT7eMxwW",
+      "last_name": "Admin",
+      "first_name": "Admin"
+    },
+    {
+      "id": 2,
+      "email": "employee@gmail.com",
+      "password": "$2a$08$szZ0e7Iidy/8eZfhPDAsvOu7tl8Ddg0zplY0Cae4bhCPURT7eMxwW",
+      "last_name": "Employee",
+      "first_name": "Employee"
+    },
+    {
+      "id": 3,
+      "email": "hoang@gmail.com",
+      "password": "$2a$08$szZ0e7Iidy/8eZfhPDAsvOu7tl8Ddg0zplY0Cae4bhCPURT7eMxwW",
+      "last_name": "Văn",
+      "first_name": "Hoàng"
+    },
+    {
+      "id": 4,
+      "email": "hai@gmail.com",
+      "password": "$2a$08$szZ0e7Iidy/8eZfhPDAsvOu7tl8Ddg0zplY0Cae4bhCPURT7eMxwW",
+      "last_name": "Ngọc",
+      "first_name": "Hải"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
